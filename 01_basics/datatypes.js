@@ -10,7 +10,7 @@ let name = "hitesh";
 let age = 18;
 let isLoggedIn = false;
 let state;
-let test;
+let test = true;
 
 //types of data in js can be represented as
 // number => 2 to power 53
